@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valu",
+				"value2"
+			],
+			[
+				"value",
+				"value1"
+			],
+			[
+				"topnav",
+				"topnav"
+			],
+			[
+				"topna",
+				"topnav"
+			],
+			[
+				"get",
+				"getCurrentPage"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vilt-/Desktop/My Services/AEM/EXAM GUIDE/jcr_root/apps/chalenge/components/structure/nav/TopNav.java",
+		"/C/Users/vilt-/Desktop/My Services/AEM/EXAM GUIDE/jcr_root/apps/chalenge/components/structure/rootpage/rootpage.html",
+		"/C/Users/vilt-/Desktop/My Services/AEM/EXAM GUIDE/jcr_root/apps/chalenge/components/structure/nav/nav.html",
+		"/C/Users/vilt-/Desktop/Meus documentos/mypage/index.html",
+		"/C/Users/vilt-/Desktop/Meus documentos/mypage/CSS/ListaFuncionarios.css",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/3674540_2_0/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/197464_2_4/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/197464_2_3/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/197464_2_2/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/197464_2_1/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/197464_2_0/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2232854_3_2/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2232854_2_0/grid-arena-redirect_antigo (3).jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2232854_2_1/grid-arena-redirect_antigo (3).jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/1970076_9_0/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/726294_2_3/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2625428_2_3/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2625428_2_2/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2625428_2_1/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2625428_2_0/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/2231608_7_6/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Downloads/adrum-xd.e2cb5463010d357205cea2144c54cf70.html",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/3346234_2_0/grid_arena_iframe.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/266538_2_7/grid-arena-redirect.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/266538_2_6/grid-arena-redirect.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/266538_2_5/grid-arena-redirect_antigo.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/266538_2_4/grid-arena-redirect.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67668_12_2/grid-arena-redirect_antigo (2).jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67668_12_1/grid-arena-redirect_antigo (2).jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67668_5_0/grid-arena-redirect.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134746_3_2/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134746_3_1/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67174_4_7/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134746_3_0/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67174_4_3/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67174_4_4/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67174_4_5/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67174_2_0/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67174_4_1/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67174_4_2/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/132608_25_78/grid_arena_iframe.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/657290_3_6/grid-login-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/657290_3_4/grid-login-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/657290_3_2/grid-login-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/657290_3_1/grid-login-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/657290_3_0/grid-login-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/394228_8_8/grid-login-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/394228_8_7/cadastrologinarena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/1640844_2_0/cadastrologinarena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67764_4_6/cadastrologinarena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67764_4_4/cadastrologinarena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67764_4_5/cadastrologinarena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67764_2_0/grid-cadastro-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/1576462_7_3/grid-cadastro-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/1576462_7_2/grid-cadastro-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/1576462_7_0/grid-cadastro-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/1576462_7_1/grid-cadastro-arena.jsp",
+		"/C/Users/vilt-/Desktop/My Services/BACKUPS/BACKUP-20191226/HML/cadastro-arena.js",
+		"/C/Users/vilt-/Desktop/My Services/BACKUPS/BACKUP-20200113/cadastro-arena.js",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/265400_2_1/grid-login-arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/395872_6_2/grid_arena_iframe.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/3672570_4_4/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/3672570_4_2/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/3672570_4_3/grid_poc.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/462206_6_5/login.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/462206_6_7/login.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/4131782_5_0/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_29_24/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_29_23/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_11_14/grid_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_11_13/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_11_12/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_11_11/header_arena.jsp",
+		"/C/DEV/Arena/portal-car/styles/style-header-arena/src/main/WebContent/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_11_10/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_11_5/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_6_3/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_6_2/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_3_1/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/134674_3_0/grid_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/1379212_2_0/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/135144_24_1/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/526214_2_2/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/526214_2_0/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/526214_2_1/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_7/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_4/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_1/grid_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_6/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_0/arena-scripts-vilt-logada.js",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_5/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_3/header_arena.jsp",
+		"/C/Users/vilt-/Documents/MobaXterm/slash/RemoteFiles/67530_3_2/header_arena.jsp",
+		"/C/Users/vilt-/Desktop/My Services/AWS/site/template/template-edu.jsp",
+		"/C/Users/vilt-/Desktop/My Services/AWS/site/pagelayout/layout-edu.jsp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

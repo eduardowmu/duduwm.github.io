@@ -5,13 +5,13 @@ td.tabela {padding:15px 50px 15px 50px;}
 .barra-direita {float:right;}
 
 .barra-direita:hover
-{	background:white;
+{	background:black;
 	font-weight:900;
 }
 
 .barra 
 {	display:inline;
-	color:#fff;
+	color:#000;
 	float:left;
 }
 
@@ -19,7 +19,7 @@ nav.navbar-transparente
 {	padding: 15px 0px;
 	/*transparência no fundo, o ultimo
 	numero é a opacidade*/
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.9);
 	border: none;
 }
 
