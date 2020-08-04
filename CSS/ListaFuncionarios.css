@@ -24,10 +24,7 @@ nav.navbar-transparente
 }
 
 button.acao {backgound:none;}
-button.btn-primary, .btn-success
-{	margin-laft:90px;
-	margin-right:90px;
-}
+button.btn-primary, .btn-success {width: 300px;}
 
 #lixo {padding-top:10px;}
 
@@ -41,6 +38,12 @@ b#titulo {color:#FFFFFF;}
 
 .color {color:blue;}
 
+#background {padding-top: 90px;}
+
+.empresas {padding-top: 15px;}
+
+#formspree {padding-top: 40px;}
+
 /*rodapé*/
 
 #rodape {background: rgba(0, 0, 0, 0.9);}
@@ -48,7 +51,9 @@ b#titulo {color:#FFFFFF;}
 #rodape h4 {color:white;}
 
 div#rodape2 
-{padding: 500px 0px 0px 0px;}
+{	padding-top: 50px;
+    width:100%
+}
 
 /*flutuação de componentes a direita da página*/
 .item-rede-social {float: right;}
