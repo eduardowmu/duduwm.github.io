@@ -24,7 +24,7 @@
 		  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
 		  crossorigin="anonymous">
 	    </script>
-		<link href="CSS/ListaFuncionarios.css" rel="stylesheet">
+	    <link href="CSS/ListaFuncionarios.css" rel="stylesheet">
 	    <script src="scripts.js"></script>
 	</head>
 	<body>
@@ -83,16 +83,16 @@
     		<form action="https://formspree.io/xlepzokv" method="POST">
 			  <label><br/>
 			    Your email:
-			    <input type="text" name="_replyto" size="30" class="form-control">
+			    <input type="email" id="email" name="_replyto" size="30" class="form-control" required>
 			  </label><br/><br/>
 			  <label>
 			    Your message:
-			    <textarea name="message" rows="10" cols="31" class="form-control"></textarea>
+			    <textarea name="message" id="msg" rows="10" cols="31" class="form-control" required></textarea>
 			  </label><br/><br/>
 
 			  <!-- your other form fields go here -->
 
-			  <button type="submit" class="btn btn-primary">Send</button>
+			  <button type="submit" class="btn btn-primary" id="send">Send</button>
 			</form>
 		</div>
     	<div id="rodape2">
@@ -137,5 +137,6 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
 		<script src="bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript"></script>
 	</body>
 </html>
