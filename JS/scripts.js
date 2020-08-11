@@ -1,6 +1,6 @@
-/*$(document).ready(function()
+$(document).ready(function()
 {	var url = window.location.href;
-	$("#send").click(function()
+	$("#send").on("click", function()
 	{	var email = $("#email").val();
 		var msg = $("#msg").val();
 		if((email === null || email === "" || email.indexOf("@") < 0) ||
@@ -10,10 +10,11 @@
 		{	$.ajax(
 			{	url: "https://formspree.io/xlepzokv",
 				method: "post",
-				success: function() {alert("Mensagem enviada com sucesso! Obrigado.");},
-				error: function()	{alert("Houve algum erro. Favor tentar novamente meais tarde.")},
-				complete: function() {window.top.location.href = url;}
+				complete: function() 
+				{	window.top.location.href = url;
+					alert("Sua mensagem foi enviada! Obrigado.")
+				}
 			});
 		}
 	});
-});*/
+});
