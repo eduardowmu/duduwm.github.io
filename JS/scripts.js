@@ -18,11 +18,12 @@ $(document).ready(function()
 				contentType : "application/json;charset=UTF-8",
 				success: function()
 				{	window.top.location.href = url;	
-					alert("Sua mensagem foi enviada! Obrigado.")
+					alert("Sua mensagem foi enviada! Obrigado.");
+					
 				},
 				error: function()
 				{	window.top.location.href = url;	
-					alert("Erro interno. Favor tente novamente.")
+					alert("Erro interno. Favor tente novamente.");
 				}
 			});
 		}
