@@ -34,6 +34,7 @@
 		  crossorigin="anonymous">
 	    </script>
 	    <script src="JS/scripts.js"></script>
+	    <script src="JS/change.js"></script>
 	    <link href="CSS/ListaFuncionarios.css" rel="stylesheet">
 	</head>
 	<body>
@@ -69,9 +70,8 @@
 							<li class="item-rede-social">
 			    				<img src="imagens/eu.png" class="img-circle">
 			    			</li>
-							<li><a class="barra-direita" href="https://eduardowmu.github.io/">Inicio</a></li>
-							<li><a class="barra-direita" href="#">Contato</a></li>
-							<li><a class="barra-direita" href="#">Outros</a></li>
+							<li><a class="barra-direita" onclick="changeDIV('inicio')">Inicio</a></li>
+							<li><a class="barra-direita" onclick="changeDIV('contato')">Contato</a></li>
 						</ul>
 					</div>
 				</div>
@@ -89,7 +89,13 @@
     		</div>
     		<div class="col-md-4 empresas"></div>
     	</div>
-	    <div align="center" id="formspree">
+    	<div align="center" id="div_inicio">
+    		<br><p>Ola! seja bem vindo! Em breve teremos mais conteúdos!<br>
+    			Caso queira enviar uma mensagem, vá em menu "Contato" no<br>
+    			topo da página.
+    		</p>
+    	</div>	
+	    <div align="center" id="div_contato" style="display: none">
 	    	<form action="https://formspree.io/xlepzokv" method="POST" id="form">
 			  <label>
 		    	<h3><b>Me envie uma mensagem!</b></h3>
