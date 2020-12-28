@@ -55,6 +55,8 @@ div#rodape2
     width:100%
 }
 
+div#imagem1	{float: left;}
+
 /*flutuação de componentes a direita da página*/
 .item-rede-social {float: right;}
 
